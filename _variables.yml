@@ -1,0 +1,44 @@
+author: Mine Dogucu
+institute: University of California Irvine
+department: Department of Statistics
+
+course:
+  code: STATS 6
+  short-title: Intro to DS
+  long-title: Introduction to Data Science
+  term: Fall
+  year: 2025
+  site: "https://www.introdata.science/"
+  github-org: "https://github.com/stats6-fa25"
+  discussion: "https://edstem.org/us/courses/87478"
+  lms: "https://canvas.eee.uci.edu/courses/76404/gradebook"
+  gradescope: "https://www.gradescope.com/courses/1140771"
+  homework: at 9:25 am on Mondays
+  midterm: Oct 29th at 9:30 - 10:50 am
+  proposal: Nov 5th at 5:00 pm
+  final-submission: Dec 10 at 7:30 am
+  final-review: Dec 10 at 8:00 - 10:00 am		
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  email: "mdogucu@uci.edu"
+  website: "https://www.minedogucu.com"
+  pronoun: "she/they"
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "W 2:30 - 3:30 pm in person and online"
+  zoom: "https://uci.zoom.us/j/91784207838"
+  office : "DBH 2204"
+  
+  
+ta: 
+  name: Rasul Ibragimov
+  email: "ibragimr@uci.edu"
+  pronoun: "he/him"
+  photo: "img/rasul-ibragimov.jpeg"
+  audio: "rasul-ibragimov.mp3"
+  office-hours: "Tu TBD Th TBD and F TBD in person and online"
+  office: "DBH 2013"
+  zoom: "TBD"
+  
+

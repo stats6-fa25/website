@@ -1,0 +1,27 @@
+## Typical Weekly Workflow
+
+```{=html}
+
+
+<!--timeline from https://bootsnipp.com/snippets/xrKXW-->
+
+<div class="container mt-5 mb-5">
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+    	<ul class="timeline">
+    		<li> <b>Monday 09:25 am </b> | Previous week's homework due </li>
+    		<li> <b>Monday 9:30 - 10:50 am</b> | Lecture </li>
+    		<li> <b>Tuesday TBD </b> | Rasul holds office hours </li>
+    		<li> <b>Wednesday 9:30 - 10:50 am</b> | Lecture </li>
+    		<li> <b>Wednesday 2:30 - 3:30 pm </b> | Dr. Dogucu holds office hours </li>
+      <li> <b>Thursday TBD </b> | Rasul holds office hours </li>
+
+      <li> <b>Thursday TBD </b> | Rasul holds office hours </li>
+
+    		
+    	</ul>
+    </div>
+  </div>
+</div>
+
+```
