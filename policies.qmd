@@ -180,6 +180,12 @@ General rules about getting help from peers and AI-like tools include the follow
 
 TLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.
 
+### Collaboration Hours
+
+This is a social class where you are encouraged to talk to each other, discuss ideas and concepts. 
+In addition to getting help from your professor, and TAs, you can also get help from your peers while complying to aforementioned policies. 
+You can get together [online]({{< var course.collab-location >}}) with your peers {{< var course.collab >}}. 
+During these hours, professor or TAs will not be present.
 
 ## Academic Honesty
 
