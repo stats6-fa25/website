@@ -27,6 +27,8 @@ website:
     right:
     - icon: github
       href: "{{< var course.github-org >}}"
+    - icon: robot
+      href: "{{< var course.classchat >}}"
     - icon: patch-question
       href: "{{< var course.discussion >}}"
     - icon: calculator

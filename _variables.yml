@@ -19,8 +19,9 @@ course:
   final-submission: Dec 10 at 7:30 am
   final-review: Dec 10 at 8:00 - 10:00 am		
   collab: at 3:30 - 5:30 pm on Fridays
-  collab-location: https://edstem.org/us/courses/87478/discussion/7059459
-
+  collab-location: "https://edstem.org/us/courses/87478/discussion/7059459"
+  classchat: "https://classchat.zotgpt.uci.edu/home/class/lurQrbadSkfR1O1OBRLDdzCB5fpZcBv0VK97"
+  
 instructor:
   name: "Dr. Mine Dogucu"
   email: "mdogucu@uci.edu"
