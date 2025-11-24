@@ -1,4 +1,33 @@
 {{< fa calendar >}} Dec 8 - Dec 12
 
+<table class="table-striped text-left table-bordered" align = "center">
 
-TBD
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Project submission on Canvas</td>
+    <td>Instructions in Week 8 repo</td>
+    <td></td>
+    <td>due Dec 10 at 7:30 am</td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Peer evaluation of projects  </td>
+    <td>on Canvas</td>
+    <td></td>
+    <td>on Dec 10 at 8:00 - 10:00 am</td>
+  </tr>
+  
+
+
+        
+</table>
