@@ -58,7 +58,7 @@
     <td>In Week 9 repo</td>
     <td><a href="https://github.com/stats6-fa25" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
             title="External Link to GitHub" target = "_blank"></i></a></td>
-    <td>Dec 2, 9:25 am</td>
+    <td>Dec 2, 11:59 am</td>
   </tr>
     
         
